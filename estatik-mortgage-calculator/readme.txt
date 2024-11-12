@@ -1,9 +1,9 @@
 === Estatik Mortgage Calculator===
 Contributors: Estatik
 Donate link: http://estatik.net/
-Tags: mortgage calculator, loan, mortgage, wordpress mortgage calculator, estatik, estatik mortgage calculator, mortgage plugin, mortgage widget
+Tags: mortgage calculator, wordpress mortgage calculator, estatik, estatik mortgage calculator
 Requires at least: 5.4
-Tested up to: 6.2.2
+Tested up to: 6.6.2
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -67,6 +67,8 @@ Yes, we can provide support via email and chat if needed.
 
 
 == Changelog ==
+= 2.0.11 (November, 5th, 2024) =
+* minor fixes 
 = 2.0.10 (May, 07, 2023) = 
 * security issues fixed
 = 2.0.7 (November, 25, 2021) =
