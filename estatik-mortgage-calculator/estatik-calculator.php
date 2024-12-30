@@ -3,7 +3,7 @@
 /**
  * Plugin Name:   Estatik Calculator Widget
  * Plugin URI:    http://estatik.net
- * Version:       2.0.11
+ * Version:       2.0.12
  * Description:   A simple mortgage calculator widget
  * Author:        Estatik
  * Author URI:    https://estatik.net
@@ -13,7 +13,7 @@
  * Domain Path:   /languages
  */
 
-define( 'EMC_VER', '2.0.11' );
+define( 'EMC_VER', '2.0.12' );
 define( 'EMC_PLUGIN_DIR_PATH', plugin_dir_path( __FILE__ ) );
 define( 'EMC_PLUGIN_DIR_URL', plugin_dir_url( __FILE__ ) );
 define( 'EMC_CURRENCY_POSITION_BEFORE', 'before' );
